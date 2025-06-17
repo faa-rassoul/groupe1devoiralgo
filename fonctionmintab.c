@@ -1,3 +1,5 @@
+//par fatou gningue
+
 float mintab(struct facture tabf[N]){
 	int i;
 	float min;
