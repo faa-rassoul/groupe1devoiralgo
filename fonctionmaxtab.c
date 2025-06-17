@@ -1,3 +1,5 @@
+//par fatou gningue
+
 float maxtab(struct facture tabf[N]){
 	int i;
 	float max;
