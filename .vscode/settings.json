@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "procédureremplirtab.C": "cpp"
+        "procédureremplirtab.C": "cpp",
+        "procédureaffichertab.C": "cpp",
+        "fonctionsommetab.C": "cpp"
     }
 }
