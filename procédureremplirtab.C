@@ -1,3 +1,5 @@
+//par marone
+
 #include <stdio.h>
 void remplirTabf(int tabf[N],const int N=10) {
     int i;
