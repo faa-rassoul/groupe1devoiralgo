@@ -1,4 +1,4 @@
-float SommeparObjet(struct facture tabf[N]){
+float sommeparobjet(struct facture tabf[N]){
 	int i;
 	float Si=0;
 	float Ss=0;
