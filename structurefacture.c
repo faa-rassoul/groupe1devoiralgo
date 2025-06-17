@@ -1,3 +1,5 @@
+//fatou gningue
+
 struct facture {
 	int numero;
 	float montant;
