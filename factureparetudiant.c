@@ -1,3 +1,5 @@
+//Par pape djiby fall
+
 void factureparetudiant(struct facture tabf[N]) {
 	int i;
 	char id[20];
