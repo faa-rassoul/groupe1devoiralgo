@@ -1,3 +1,5 @@
+//par marone
+
 float sommetab(struct facture tabf[N]){
 	int i;
 	float s=0;
