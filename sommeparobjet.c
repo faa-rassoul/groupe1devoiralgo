@@ -1,3 +1,5 @@
+//par pape djiby fall
+
 float sommeparobjet(struct facture tabf[N]){
 	int i;
 	float Si=0;
