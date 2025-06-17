@@ -1,9 +1,9 @@
 main(){
-	RemplirTab(tabf);
-	AfficherTab(tabf);
-	SommeTab(tabf);
-	MinTab(tabf);
-	MaxTab(tabf);
-	SommeparObjet(tabf);
-	FactureparEtudiant(tabf);
+	remplirtab(tabf);
+	affichertab(tabf);
+	sommetab(tabf);
+	mintab(tabf);
+	maxtab(tabf);
+	sommeparobjet(tabf);
+	factureparetudiant(tabf);
 }
