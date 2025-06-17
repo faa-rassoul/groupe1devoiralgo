@@ -1,3 +1,5 @@
+//par marone
+
 void affichertab(struct facture tabf[N]){
 	int i;
 	for(i=0;i<N;i++){
